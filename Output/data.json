@@ -1,0 +1,133 @@
+{
+    "Transcription":"हैलो लॉ सर ऋषि जी बात कर रहे है, हैलो ऋषि बात कर रहे हैं, ऋषि का नंबर है वहाँ पे करने नंबर मिला हुआ है, लाइन थ्री की है। मैं अभी तक पेमेंट नहीं की, उनको बोलोगे ज़रा बात करके पेमेंट करने के लिए नंबर मैं बात करेगा उनका नंबर आप बता दीजिए, आपको बताने में क्या दिक्कत है? पूरा महीना जा चुका है, हम बता क्या कर लेंगे उसको जब उसने पेमेंट नहीं करि?",
+    "Translation":"Hello law sir Rishi ji is talking, hello Rishi is talking, Rishi's number is there, the number to pay is there, the line is of three. I haven't paid yet, will you tell them to talk and talk to the number to make payment, tell them their number, what is the problem in telling you? The whole month has passed, what will we do when he does not pay?",
+    "Advanced Transcription and Translation with Diarization":[
+        {
+            "Time":"00:00:00",
+            "Speaker":1,
+            "Text":"Hello."
+        },
+        {
+            "Time":"00:00:01",
+            "Speaker":1,
+            "Text":"Laurie ji is talking."
+        },
+        {
+            "Time":"00:00:05",
+            "Speaker":1,
+            "Text":"They're saying the same thing."
+        },
+        {
+            "Time":"00:00:07",
+            "Speaker":2,
+            "Text":"I have not seen the number, I have got the number to clear it from there. Nine three."
+        },
+        {
+            "Time":"00:00:11",
+            "Speaker":1,
+            "Text":"Well sir, their loan EMI has not been paid yet. Tell them if you talk."
+        },
+        {
+            "Time":"00:00:15",
+            "Speaker":1,
+            "Text":"To make the payment."
+        },
+        {
+            "Time":"00:00:17",
+            "Speaker":2,
+            "Text":"I am talking on their number in November."
+        },
+        {
+            "Time":"00:00:18",
+            "Speaker":1,
+            "Text":"Sir, you tell me what is the problem in telling you? The whole month is gone. He did not pay what we will do by telling him."
+        },
+        {
+            "Time":"00:00:23",
+            "Speaker":3,
+            "Text":"It's it."
+        },
+        {
+            "Time":"00:00:32",
+            "Speaker":1,
+            "Text":"Tell him to pay and pay."
+        },
+        {
+            "Time":"00:00:37",
+            "Speaker":1,
+            "Text":"All right."
+        }
+    ],
+    "Typical Potent Features":[
+        {
+            "Method":"Speech Features",
+            "Feature Name":"Recording Length (seconds)",
+            "Feature Value":47.7
+        },
+        {
+            "Method":"Speech Features",
+            "Feature Name":"Silence Periods Duration (seconds)",
+            "Feature Value":18.6
+        },
+        {
+            "Method":"Speech Features",
+            "Feature Name":"Silence Percentage",
+            "Feature Value":39.0
+        },
+        {
+            "Method":"Unsupervised: Predicted Topic",
+            "Feature Name":"Trying ASAP",
+            "Feature Value":"4%"
+        },
+        {
+            "Method":"Unsupervised: Predicted Topic",
+            "Feature Name":"Asking for Closure, Settlement or Delaying",
+            "Feature Value":"4%"
+        },
+        {
+            "Method":"Unsupervised: Predicted Topic",
+            "Feature Name":"Not Responding, Bengali",
+            "Feature Value":"92%"
+        },
+        {
+            "Method":"Unsupervised: Cluster Response",
+            "Feature Name":"Predicted Cluster",
+            "Feature Value":"Low Response"
+        },
+        {
+            "Method":"Supervised Predicted Feature",
+            "Feature Name":"Negotiating Days",
+            "Feature Value":0
+        },
+        {
+            "Method":"Supervised Predicted Feature",
+            "Feature Name":"Short Answers",
+            "Feature Value":1
+        },
+        {
+            "Method":"Supervised Predicted Feature",
+            "Feature Name":"Have Receivable",
+            "Feature Value":0
+        },
+        {
+            "Method":"Supervised Predicted Feature",
+            "Feature Name":"Generic: Will Do",
+            "Feature Value":1
+        },
+        {
+            "Method":"Supervised Predicted Feature",
+            "Feature Name":"No Call Closure: Hang-up",
+            "Feature Value":1
+        },
+        {
+            "Method":"Supervised Predicted Feature",
+            "Feature Name":"Can't pay",
+            "Feature Value":0
+        },
+        {
+            "Method":"Rule Based",
+            "Feature Name":"Percentage Words by Call Receiver",
+            "Feature Value":"27%"
+        }
+    ]
+}
